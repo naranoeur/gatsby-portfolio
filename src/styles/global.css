@@ -1,0 +1,12 @@
+.more-link {
+  color: #696969;
+}
+
+.tiled-gallery .gallery-group {
+    float: left;
+    position: relative;
+}
+
+.tiled-gallery-item img {
+  margin: 0;
+}

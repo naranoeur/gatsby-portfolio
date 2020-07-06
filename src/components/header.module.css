@@ -1,0 +1,16 @@
+.header-container {
+  height: 130px;
+}
+
+.navigation {
+  text-align: right;
+}
+
+.link {
+  margin-right: 25px;
+  transition: border 0.2s;
+}
+
+.link:hover {
+  border-bottom: 2px solid ;
+}

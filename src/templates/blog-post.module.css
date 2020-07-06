@@ -1,0 +1,29 @@
+.postContainer {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.feature-image {
+  margin-bottom: 45px;
+}
+
+.title {
+  font-size: 47px;
+  margin: 0 0 .4375em;
+  font-weight: 400;
+}
+
+.date {
+  font-size: 16px;
+  font-style: italic;
+  margin-bottom: 50px;
+  line-height: 35px
+}
+
+.date::after {
+  border-top: 1px solid;
+  content: "";
+  display: block;
+  width: 12.5%;
+  margin-top: 15px;
+}
